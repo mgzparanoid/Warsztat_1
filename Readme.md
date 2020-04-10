@@ -6,5 +6,5 @@
 1. random number generator,
 2.
 3. jackpot simulator,
-4. dice rolls similar to add,
+4. dice rolls similar to ADD,
 5. 
